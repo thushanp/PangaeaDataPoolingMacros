@@ -1,6 +1,6 @@
 # VBA-Pooling-Macros
 
-A series of macros I built to extract, clean and visualise oil well data, pooling orders and other publicly available regulatory information from www.pangaeadata.com to assist my team at my freshman summer internship at Bowery Investment Management, LLC. as they looked to invest into physical energy assets in Oklahoma.
+A series of macros I built to extract, clean and visualise oil well data, pooling orders and other publicly available regulatory information from www.pangaeadata.com to assist my team at my freshman summer internship at Bowery Investment Management, LLC. as they invested into physical energy assets in Oklahoma. 
 
 Specifics:
 
