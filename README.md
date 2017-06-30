@@ -5,7 +5,7 @@ A series of macros I built to extract, clean and visualise oil well data, poolin
 Specifics:
 
 1. Area of Interest Map Macro
-	Will automatically generate a highlighted map of sections in the Kingfisher, Blaine, Canadian and Grady counties that you are interested in. This can be combined with the Datacleaner to map out areas of high regulatory activity in these counties - with either large numbers of pooling orders, spud dates, active poolings or wells currently producing.
+	Will automatically generate a highlighted map of sections in the Kingfisher, Blaine, Canadian and Grady counties that you are interested in. This can be combined with the Datacleaner to map out areas of high regulatory activity and interest in these counties - with either large numbers of pooling orders, spud dates, active poolings or wells currently producing - which tend to be prime investment targets.
 2. Datacleaner Macro
 	Will clean data copied and pasted from Pangaea into a new spreadsheet organised into columns with all pertinent information listed out side-by-side in columns.
 3. Colouring Macro
