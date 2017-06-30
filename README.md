@@ -15,4 +15,4 @@ Specifics:
 5. Trimmer Macro
 	Simple Macro that will trim the final character for a string in a cell. Useful for Area of Interest Map Macro - if you have a long list of "15"/"16N"/"8W" type data, then the trimmer can remove the "N" and "W" quickly and easily before the Area of Interest macro goes to work
 
-Pangaeadata requires a login however with a few small edits, these macros can also be utilised with the Oklahoma Corporation Commission website http://www.occeweb.com/ which is freely available.
+Pangaea requires a login, but with a few small edits, these macros can also be utilised with the Oklahoma Corporation Commission website http://www.occeweb.com/ which is freely accessible.
